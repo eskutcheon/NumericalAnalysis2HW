@@ -1,0 +1,8 @@
+Gaussian elimination in algorithm 3.1.6 has time complexity O(n^3) with 
+    3 nested loops. This is only for this algorithm specifically and through some 
+    searching, I found that other algorithms that perform Gauss-Jordan 
+    elimination exist that are relatively recent discoveries in combinatorial 
+    mathematics.
+This post led me down a rabbit hole of trying to understand logarithmic time
+    in terms of sequences: 
+    https://cstheory.stackexchange.com/questions/3921/what-is-the-actual-time-complexity-of-gaussian-elimination

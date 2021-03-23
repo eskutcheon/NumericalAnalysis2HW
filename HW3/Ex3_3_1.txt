@@ -1,0 +1,4 @@
+a. If A has lower bandwidth q without pivoting, then L in A=LU has lower bandwidth q as well.
+b. At most, q entries below the main diagonal must be updated per column.
+c. If A has upper bandwidth p without pivoting, then U in A=LU has upper bandwidth p as well.
+d. At most, p entries to the right of the main diagonal must be updated per row.
