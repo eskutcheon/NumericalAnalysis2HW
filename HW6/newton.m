@@ -15,6 +15,5 @@ end
     niter = i
 end
 
-% This code does some very weird things if your initial guess happens to be
-% the midpoint of two roots. If by chance you read this, could you explain
-% why?
+% This code does some weird things if your initial guess happens to be
+% the midpoint of two roots.
